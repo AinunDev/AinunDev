@@ -26,6 +26,7 @@ Always learning and exploring new technologies.
 - 🔭 Creating personal projects with Python  
 - 🌱 Exploring advanced C++ topics  
 - 💡 Experimenting with web technologies
+- ⚙️ Learning/Building projects with Assembly
 
 ## 📫 Let's Connect
 
