@@ -21,7 +21,7 @@ Always learning and exploring new technologies.
     <span style="margin: 0 15px; font-weight:bold;">Assembly</span>
 </p>
 
-## 📌 Currently Working On
+## <img src="https://github.com/AinunDev/AinunDev/blob/main/pin.gif" width="25" height="25" /> Currently Working On
 
 - 🔭 Creating personal projects with Python  
 - 🌱 Exploring advanced C++ topics  
