@@ -28,7 +28,7 @@ Always learning and exploring new technologies.
 - 💡 Experimenting with web technologies
 - ⚙️ Learning/Building projects with Assembly
 
-## 📫 Let's Connect
+## <img src="https://github.com/AinunDev/AinunDev/blob/main/link.gif" width="25" height="25" /> Let's Connect
 
 <p align="center">
   <a href="https://t.me/AinunDev" style="text-decoration: none; color: inherit;">
